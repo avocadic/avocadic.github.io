@@ -1,13 +1,21 @@
 # A first-level heading
+
 ## A second-level heading
+
 ### A third-level heading
 
 **This is bold text**
+
 _This text is italicized_
+
 ~~This was mistaken text~~
+
 **This text is _extremely_ important**
+
 ***All this text is important***
+
 This is a <sub>subscript</sub> text
+
 This is a <sup>superscript</sup> text
 
 Text that is not a quote
@@ -24,6 +32,28 @@ git commit
 ```
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+1 enter:
+
+2 enters:
+
+
+3 enters:
+
+
+
+4 enters:
+
+
+
+
+5 enters:
+
+
+
+
+
+END
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
